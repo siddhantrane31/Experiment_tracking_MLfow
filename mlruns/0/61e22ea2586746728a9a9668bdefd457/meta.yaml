@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/ML_AI/Mlflow/Experiment_tracking_MLfow/mlruns/0/61e22ea2586746728a9a9668bdefd457/artifacts
+end_time: 1762257131563
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 61e22ea2586746728a9a9668bdefd457
+run_name: rumbling-bird-779
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762257131451
+status: 3
+tags: []
+user_id: siddhant

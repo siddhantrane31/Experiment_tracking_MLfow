@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/ML_AI/Mlflow/Experiment_tracking_MLfow/mlruns/0/f2474200a4994d3dbe6e084945e1a8ef/artifacts
+end_time: 1762256862417
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f2474200a4994d3dbe6e084945e1a8ef
+run_name: invincible-eel-438
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762256862239
+status: 3
+tags: []
+user_id: siddhant

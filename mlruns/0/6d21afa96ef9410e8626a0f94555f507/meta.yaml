@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/ML_AI/Mlflow/Experiment_tracking_MLfow/mlruns/0/6d21afa96ef9410e8626a0f94555f507/artifacts
+end_time: 1762257225640
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6d21afa96ef9410e8626a0f94555f507
+run_name: grandiose-asp-546
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762257225524
+status: 3
+tags: []
+user_id: siddhant

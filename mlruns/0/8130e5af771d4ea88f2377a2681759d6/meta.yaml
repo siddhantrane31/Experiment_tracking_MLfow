@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/ML_AI/Mlflow/Experiment_tracking_MLfow/mlruns/0/8130e5af771d4ea88f2377a2681759d6/artifacts
+end_time: 1762257377765
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8130e5af771d4ea88f2377a2681759d6
+run_name: gentle-auk-602
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762257377663
+status: 3
+tags: []
+user_id: siddhant

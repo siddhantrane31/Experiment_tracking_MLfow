@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/ML_AI/Mlflow/Experiment_tracking_MLfow/mlruns/0/6b77cb067cfc4dc8816fe83db39c830d/artifacts
+end_time: 1762256630148
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6b77cb067cfc4dc8816fe83db39c830d
+run_name: persistent-steed-56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762256630034
+status: 4
+tags: []
+user_id: siddhant

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/ML_AI/Mlflow/Experiment_tracking_MLfow/mlruns/0/497983edae7e41bdb810d58ec746f02e/artifacts
+end_time: 1762256117549
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 497983edae7e41bdb810d58ec746f02e
+run_name: sincere-croc-132
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762256117491
+status: 4
+tags: []
+user_id: siddhant

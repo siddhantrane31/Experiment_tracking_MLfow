@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/ML_AI/Mlflow/Experiment_tracking_MLfow/mlruns/0/395c1712855f449aab3219b7cb074cf7/artifacts
+end_time: 1762256111723
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 395c1712855f449aab3219b7cb074cf7
+run_name: secretive-stag-854
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762256111657
+status: 4
+tags: []
+user_id: siddhant

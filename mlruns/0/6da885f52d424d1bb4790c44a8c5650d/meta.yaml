@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/ML_AI/Mlflow/Experiment_tracking_MLfow/mlruns/0/6da885f52d424d1bb4790c44a8c5650d/artifacts
+end_time: 1762256382386
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6da885f52d424d1bb4790c44a8c5650d
+run_name: aged-perch-869
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762256382318
+status: 3
+tags: []
+user_id: siddhant

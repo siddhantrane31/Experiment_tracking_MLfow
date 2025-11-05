@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/ML_AI/Mlflow/Experiment_tracking_MLfow/mlruns/0/16a264478c2d4e9c800b983e4b7551c4/artifacts
+end_time: 1762256752691
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 16a264478c2d4e9c800b983e4b7551c4
+run_name: unique-snake-689
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762256752598
+status: 4
+tags: []
+user_id: siddhant
